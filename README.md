@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi, I'm Mrinalini Singh
+
+- B.Tech Student at VIT Bhopal University  
+- Currently learning programming and digital skills  
+- Interested in technology and problem solving  
+
+I hope to build strong technical skills and gain practical experience over the next four years.
 
 <!--
 **mrinalini25bce10704/mrinalini25bce10704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
